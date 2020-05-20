@@ -2,13 +2,6 @@
 @import url(https://use.typekit.net/efj7gzu.css);
 /* CSS Document */
 body {
-	/* Temport setup for Dreamweaver testing
-	else juist run background-colour
-	background-image: url("Images/SEQTA_Learn_(Yoga-11e)_Background.png");
-	background-size: 100%;
-	background-repeat: no-repeat; 
-	padding-left: 18%;	
-	*/
 	background-color: #1e345d;
 	padding-top: 40px;
 }
@@ -35,7 +28,6 @@ p {
 }
 
 .scr-box {
-	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 2%;
@@ -72,13 +64,11 @@ p {
 }
 
 .seqta-frame {
-	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 2%;
 	align-content: center;
 	border: none;
-	padding: 0px;
 	box-shadow: 3px 3px 8px #000000;
 }
 
