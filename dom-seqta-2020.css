@@ -3,10 +3,11 @@
 /* CSS Document */
 body {
 	/* Temport setup for Dreamweaver testing
-	else juist run background-colour*/
+	else juist run background-colour
 	background-image: url("Images/SEQTA_Learn_(Yoga-11e)_Background.png");
 	background-size: 100%;
 	background-repeat: no-repeat;
+	*/
 	background-color: #1e345d;
 	padding-left: 18%;
 	padding-top: 40px;
