@@ -64,10 +64,12 @@ p {
 }
 
 .seqta-frame {
+	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 2%;
 	align-content: center;
+	text-align: center;
 	border: none;
 	box-shadow: 3px 3px 8px #000000;
 }
