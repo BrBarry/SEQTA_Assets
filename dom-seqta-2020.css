@@ -46,6 +46,7 @@ p {
 .scr-cell {
 	border: 0px none;
 	padding: 0px;
+	vertical-align: center;
 }
 
 .button {
