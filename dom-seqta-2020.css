@@ -6,14 +6,11 @@ body {
 	else juist run background-colour
 	background-image: url("Images/SEQTA_Learn_(Yoga-11e)_Background.png");
 	background-size: 100%;
-	background-repeat: no-repeat; */
-	background-color: #1e345d;
+	background-repeat: no-repeat; 
+	padding-left: 18%;background-color: #1e345d;
 	padding-left: 18%;
 	padding-top: 40px;
-}
-
-p {
-	font-family: adobe-garamond-pro, serif;
+ily: adobe-garamond-pro, serif;
 	font-weight: 400;
 	font-style: normal;
 	text-align: left;
