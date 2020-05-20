@@ -50,6 +50,12 @@ p {
 	vertical-align: middle;
 }
 
+.cell-logo {
+	border: 0px none;
+	padding: 5px;
+	align-content: center;
+	vertical-align: middle;
+
 .button {
 	width: 251px;
 	height: 80px;
