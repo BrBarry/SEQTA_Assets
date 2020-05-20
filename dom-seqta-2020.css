@@ -6,8 +6,7 @@ body {
 	else juist run background-colour
 	background-image: url("Images/SEQTA_Learn_(Yoga-11e)_Background.png");
 	background-size: 100%;
-	background-repeat: no-repeat;
-	*/
+	background-repeat: no-repeat; */
 	background-color: #1e345d;
 	padding-left: 18%;
 	padding-top: 40px;
@@ -69,13 +68,16 @@ p {
 	margin-right: auto;
 	margin-top: 2%;
 	align-content: center;
+	border: 0px none;
+	border-collapse: collapse;
+	padding: 0px;
 }
 
 .house-table td {
 	width: 50%;
 	text-align: center;
-	border: none;
-	padding; none;
+	border: 0xp none;
+	padding: 0px;
 }
 .house-tb-bg {
 	background-size: 460px 720px;
