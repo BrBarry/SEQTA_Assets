@@ -38,6 +38,14 @@ p {
 	margin-right: auto;
 	margin-top: 2%;
 	align-content: center;
+	border: 0px none;
+	border-collapse: collapse;
+	padding: 0px;
+}
+
+.src-box tb {
+	border: 0px none;
+	padding: 0px;
 }
 
 .button {
@@ -76,9 +84,10 @@ p {
 .house-table td {
 	width: 50%;
 	text-align: center;
-	border: 0xp none;
+	border: 0px none;
 	padding: 0px;
 }
+
 .house-tb-bg {
 	background-size: 460px 720px;
 	background-repeat: no-repeat;
