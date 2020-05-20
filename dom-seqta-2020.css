@@ -74,6 +74,8 @@ p {
 .house-table td {
 	width: 50%;
 	text-align: center;
+	border: none;
+	padding; none;
 }
 .house-tb-bg {
 	background-size: 460px 720px;
