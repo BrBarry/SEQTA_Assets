@@ -7,10 +7,14 @@ body {
 	background-image: url("Images/SEQTA_Learn_(Yoga-11e)_Background.png");
 	background-size: 100%;
 	background-repeat: no-repeat; 
-	padding-left: 18%;background-color: #1e345d;
-	padding-left: 18%;
+	padding-left: 18%;	
+	*/
+	background-color: #1e345d;
 	padding-top: 40px;
-ily: adobe-garamond-pro, serif;
+}
+
+p {
+	font-family: adobe-garamond-pro, serif;
 	font-weight: 400;
 	font-style: normal;
 	text-align: left;
