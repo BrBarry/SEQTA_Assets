@@ -33,7 +33,7 @@ p {
 	text-shadow: 3px 3px 8px #000000;
 }
 
-.src-box {
+.scr-box {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 2%;
@@ -43,7 +43,7 @@ p {
 	padding: 0px;
 }
 
-.src-box tb {
+.scr-cell {
 	border: 0px none;
 	padding: 0px;
 }
