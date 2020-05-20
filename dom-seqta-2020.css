@@ -65,9 +65,7 @@ p {
 
 .seqta-frame {
 	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 2%;
+	margin: auto;
 	align-content: center;
 	text-align: center;
 	border: none;
